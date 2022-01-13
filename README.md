@@ -4,7 +4,7 @@ Secrets, confessions, and cries for help from the furry ~overlords~ over<i>ladie
 Repo named by our very own Pebba-bebba-boo as I dumped her off the keyboard
 
 ## File Format
-Please name files using `YYYYMMDD` in respective cat's folder
+Please name files using `YYYYMMDD.md` in respective cat's folder
 
 No editing allowed!
 
